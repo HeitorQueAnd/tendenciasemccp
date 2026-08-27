@@ -29,13 +29,13 @@ POR QUE? (Why)
 
 QUEM? (Who)
 - Público-alvo:
-  - Estudantes de [INSERIR CURSO — ex.: Ciência de Dados, Estatística, Economia, Gestão].
+  - Estudantes de Ciência da Computação.
 - Responsáveis / papéis:
   - Professor(es) / Facilitador(es): planejamento, avaliação e tutoria.
   - Assistente(s) / Monitores: suporte técnico e correção de exercícios.
   - Alunos: execução das atividades, submissão de relatórios.
 - Contatos:
-  - [INSERIR NOME E EMAIL DO RESPONSÁVEL PELO REPO]
+  - heitor.andrade@cs.udf.edu.br
 
 ONDE? (Where)
 - Local do material:
