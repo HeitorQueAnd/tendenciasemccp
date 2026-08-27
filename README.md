@@ -2,7 +2,7 @@
 
 Resumo rápido
 ------------
-Projeto para apoiar o plano de aulas sobre análise e interpretação de tendências aplicadas a [INSERIR TEMA — ex.: mercado, redes sociais, consumo, dados ambientais]. Este repositório centraliza dados, códigos, materiais didáticos e atividades práticas para os estudantes aprenderem a detectar, analisar e comunicar tendências.
+Projeto para apoiar o plano de aulas sobre análise e interpretação de tendências aplicadas a Ciência da Computação. Este repositório centraliza dados, códigos, materiais didáticos e atividades práticas para os estudantes aprenderem a detectar, analisar e comunicar tendências.
 
 Modelo 5W2H aplicado ao projeto
 ------------------------------
