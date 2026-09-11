@@ -4,6 +4,25 @@ Resumo rápido
 ------------
 Projeto para apoiar o plano de aulas sobre análise e interpretação de tendências aplicadas a Ciência da Computação. Este repositório centraliza dados, códigos, materiais didáticos e atividades práticas para os estudantes aprenderem a detectar, analisar e comunicar tendências.
 
+Atividade prática - Unidade 2
+-----------------------------
+Programação assistida por IA: jogo da forca em Python, com versão inicial, refatoração, roteiro de prompts, análise crítica e testes automatizados.
+
+- [Notebook da atividade (.ipynb): códigos, explicações e testes](unidade2/atividadeaula4.ipynb)
+- [Relatório completo da atividade](unidade2/atividadeaula4.md)
+- [Jogo da forca refatorado](unidade2/jogo_da_forca/forca.py)
+- [Versão inicial para comparação](unidade2/jogo_da_forca/forca_base.py)
+- [Testes automatizados](unidade2/jogo_da_forca/test_forca.py)
+
+O notebook contém as duas versões comentadas e funciona sem importar os arquivos `.py`. Abra no Jupyter ou Google Colab e execute as células em ordem. Para jogar pelo teclado, siga a seção "Partida interativa opcional"; as demonstrações e os testes executam sem digitação.
+
+Para usar os scripts na raiz do repositório, com Python 3.10 ou superior e sem dependências externas:
+
+```bash
+python3 unidade2/jogo_da_forca/forca.py
+python3 -B -m unittest discover -s unidade2/jogo_da_forca -p 'test_*.py' -v
+```
+
 Modelo 5W2H aplicado ao projeto
 ------------------------------
 
